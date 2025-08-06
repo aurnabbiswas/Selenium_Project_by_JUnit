@@ -1,0 +1,15 @@
+
+/build/
+/out/
+/target/
+
+.gradle/
+**/build/
+**/.gradle/
+
+.idea/
+*.iml
+
+# Logs
+*.log
+logs/
